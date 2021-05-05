@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashley-bird
-- 👀 I’m interested in ...learning and getting familiar with gihub
+- 👀 I’m interested in ...learning and getting familiar with github
 - 🌱 I’m currently learning ...how to use github and read code
 - 💞️ I’m looking to collaborate on ...not sure
 - 📫 How to reach me ...
